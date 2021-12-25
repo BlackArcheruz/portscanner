@@ -2,7 +2,7 @@
 
 ## What it can do ?
 
-This tool can scan which ports are open and which ports are closed. This tool can scan Multiple IP Adresses at the same time. 
+This tool can scan which ports are opened and which ports are closed. This tool can scan Multiple IP Adresses at the same time. 
 
 ## Documentation
 
